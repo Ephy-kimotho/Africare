@@ -1,7 +1,7 @@
 
 <h1 align="center"> 🩺 AfyaCare: Your Personalized Healthcare AI 🩺 </h1>
 
-<img src="https://raw.githubusercontent.com/starlightknown/LearnScape/main/learnscape.gif?token=ARZODXPL47CVB33WWK76F6LBXXH32">
+<img src="src/Landing_page/assets/WhatsApp Image 2024-05-11 at 14.25.59_89c3ede4.jpg" alt="WhatsApp Image">
 
 <a href="https://github.com/starlightknown/LearnScape"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/starlightknown/LearnScape"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
@@ -77,8 +77,6 @@ If you would like to contribute to this api please go ahead and read [COC](/CODE
 1. NodeJs installed in local environment.
 2. Git installed in local environment.
 3. GitHub account.
-
-### Project setup & Contribution steps
 
 ### Project Setup & Contribution Steps
 
