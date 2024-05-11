@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🩺 AfyaCare: Your Personalized Healthcare AI 🩺 </h1>
+<h1 align="center"> 🩺 AfriCare: Your Personalized Healthcare AI 🩺 </h1>
 
 <img src="src/Landing_page/assets/WhatsApp Image 2024-05-11 at 14.25.59_89c3ede4.jpg" alt="WhatsApp Image">
 
