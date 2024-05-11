@@ -31,8 +31,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### View the [Backend API Documentation](https://github.com/starlightknown/LearnScape/tree/main/api#-1-apiv1projects) 
-
 ## Inspiration
 The AfyaCare project is inspired by the need to make healthcare information and services more accessible. By leveraging AI and real-time communication technologies, the team aims to provide personalized symptom management support, connecting users with nearby healthcare facilities while keeping their personal doctors informed.
 
